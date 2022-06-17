@@ -1,0 +1,14 @@
+body {
+ background: #00a6ff;
+ background-image: url("./ball.webp"); 
+ color: #00ffa2;
+}
+
+strong {
+  color: #f0e6e6;
+}
+
+p > strong {
+  color: #f0e6e6;
+}
+
