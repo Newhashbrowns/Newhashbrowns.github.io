@@ -1,7 +1,11 @@
 body {
- background: #00a6ff;
- background-image: url("./ball.webp"); 
- color: #00ffa2;
+    background-repeat: no-repeat;
+    background-color: #f00707;
+    background-image: url(./ball.webp);
+    color: #f00707;
+    background-size: cover;
+    min-height: 100vh;
+    background-position: center center;
 }
 
 strong {
